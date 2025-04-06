@@ -53,7 +53,7 @@ Me chamo Michael Vinicius Candida, tenho 21 anos e sou natural de Pederneiras. A
     alt="Next.js" 
     title="Next.js"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <br/>
@@ -67,14 +67,14 @@ Me chamo Michael Vinicius Candida, tenho 21 anos e sou natural de Pederneiras. A
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Michel-Candida&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Michel-Candida&show_icons=true&theme=tokyonight&include_all_commits=true&" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-Candida&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-Candida&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 
 </p>
