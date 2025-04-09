@@ -62,19 +62,9 @@ Me chamo Michael Vinicius Candida, tenho 21 anos e sou natural de Pederneiras. A
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Michel-Candida&show_icons=true&theme=tokyonight&include_all_commits=true&" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-Candida&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
+ ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Michel-Candida&show_icons=true&theme=tokyonight&include_all_commits=true&)
+ 
+ ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Michel-Candida&layout=compact&theme=tokyonight&include_all_commits=true&)
 
 </p>
